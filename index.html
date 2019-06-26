@@ -21,6 +21,22 @@
     	.mshadow {
     		box-shadow: 10px 10px 5px grey;
     	}
+    	#overlay {
+	    	width:20%;
+	    	position:absolute; /*You may also use fixed depending on your needs.*/
+	    	right: 25%;
+	    	top:-50px; /*If you want it at the bottom you probably want bottom:0 instead*/
+	    	z-index: 999;
+    	}
+    	#nap {
+    		font-family: 'Rubik Mono One', sans-serif;
+    		font-size: .7rem;
+    	}
+    	@media (min-width: 576px) {
+    		#overlay {
+    			right: -10%;
+    		}
+    	}
     </style>
 
     <title>High Country Hardscapes and Landscape Design - Upstate NY Hardscaping Professionals</title>
@@ -38,13 +54,13 @@
       	</div>
       	<div class="col-md-9 text-center">
   			<h2 class="title">High Country Hardscapes and Landscape Design Website is Under Construction</h2>
-  			<p>Just like any of our great stonework, concrete or pavers jobs this masterpeice will start with some dirty work. When its complete it will be the place to reference everything we do.</p>	
+  			<p>Just like any of our great stonework, concrete or paver jobs this masterpeice will start with some dirty work. When its complete it will be the place to reference everything we do.</p>	
       	</div>
       </div>
       <div class="row main mt-4">
       	<div class="col-md">
-      		<div class="signage">
-      			<img src="img/udner_const.png">
+      		<div id="overlay">
+      			<img src="img/under_const.png" style="width:10rem;">
       		</div>
       		<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       		  <div class="carousel-inner">
@@ -78,7 +94,7 @@
       </div>
       <div class="row footer mt-3">
       	<div class="col-md-9">
-  			<div style="font-family: 'Rubik Mono One', sans-serif;font-size: .75rem;">
+  			<div id="nap">
   				High Country Hardscape & Landscape Designs<br/>	1101 Mariaville Rd, Schenectady, NY 12306<br/>
   				<a href="tel:518-527-3964">518-527-3964</a>
   			</div>
@@ -88,6 +104,7 @@
       	</div>
       </div>
     </div>
+
 
 
     <!-- Optional JavaScript -->
