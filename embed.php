@@ -47,7 +47,7 @@
     	}
     </style>
 
-    <title>High Country Hardscape and Landscape Design - Upstate NY Hardscaping Professionals</title>
+    <title>High Country Hardscape and Landscape Design - Facebook Mobile Uploads Demo</title>
   </head>
   <body>
   	<!-- Google Tag Manager (noscript) -->
@@ -71,38 +71,7 @@
       </div>
       <div class="row main mt-4">
       	<div class="col-md">
-      		<div id="overlay">
-      			<img src="img/under_const.png" style="width:10rem;">
-      		</div>
-      		<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-      		  <div class="carousel-inner">
-      		    <div class="carousel-item active">
-      		      <img src="img/const1.jpg" class="d-block w-100" alt="">
-      		    </div>
-      		    <div class="carousel-item">
-      		      <img src="img/const2.jpg" class="d-block w-100" alt="...">
-      		    </div>
-      		    <div class="carousel-item">
-      		      <img src="img/const3.jpg" class="d-block w-100" alt="...">
-      		    </div>
-      		    <div class="carousel-item">
-      		      <img src="img/const4.jpg" class="d-block w-100" alt="...">
-      		    </div>
-      		    <div class="carousel-item">
-      		      <img src="img/const5.jpg" class="d-block w-100" alt="...">
-      		    </div>
-      		  </div>
-      		  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-      		    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      		    <span class="sr-only">Previous</span>
-      		  </a>
-      		  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-      		    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      		    <span class="sr-only">Next</span>
-      		  </a>
-      		</div>
-      		
-      	</div>
+      		<div class='embedsocial-album' data-ref="a541851eea5035530fd64c02b537e877fbe66a70"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ei.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialScript"));</script>
       </div>
       <div class="row footer mt-3">
       	<div class="col-md-9">
