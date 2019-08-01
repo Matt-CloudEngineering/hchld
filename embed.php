@@ -70,7 +70,7 @@
       	</div>
       </div>
       <div class="row main mt-4">
-      	<div class="col-md">
+      	<div class="col-md-12">
       		<div class='embedsocial-album' data-ref="a541851eea5035530fd64c02b537e877fbe66a70"></div><script>(function(d, s, id){var js; if (d.getElementById(id)) {return;} js = d.createElement(s); js.id = id; js.src = "https://embedsocial.com/embedscript/ei.js"; d.getElementsByTagName("head")[0].appendChild(js);}(document, "script", "EmbedSocialScript"));</script>
       </div>
       <div class="row footer mt-3">
